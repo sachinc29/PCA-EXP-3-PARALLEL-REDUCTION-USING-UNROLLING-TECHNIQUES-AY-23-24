@@ -377,7 +377,7 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![image](out.png)
+![image](https://github.com/user-attachments/assets/52dfde1e-9a0c-42f6-a3cb-77a8928c6131)
 
 ## RESULT:
 Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that  1048576 has executed with less elapsed time than 1048576 with blocks 2.73 ms,116.58 ms.
